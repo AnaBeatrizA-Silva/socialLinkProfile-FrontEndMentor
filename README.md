@@ -2,7 +2,7 @@
 
 Expectation:
 
-<img alt="" src="">
+<img alt="" src="./img/active-states.jpg">
 
 Mine:
 
